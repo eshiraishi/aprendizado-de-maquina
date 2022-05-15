@@ -126,6 +126,8 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+
+.vscode/
 .pyre/
 
 aprendizado-de-maquina
